@@ -20,5 +20,29 @@ De los cuales cada uno de esos sera visible con un video tutorial importado dire
 
 <img width="175" alt="pecho 4" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/f4c89009-d26c-4f54-9207-82b15a30f8ae">
 
-3. 
+3. Reto diario estara diseñado para crear una tarea todos los dias con el objetivo de mantener al usuario en actividad ficia todos los dias con incentivos como los son el conteo de días realizados.
+
+<img width="184" alt="reto diario" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/0b79fd98-9664-4e81-bdfb-0102d5ffcaba">
+
+4. Entrena en casa sera una ventana donde permitira generar una rutina especifica hacia algun area del cuerpo esto dara visualización a rutinas completetas pero mas orientadas hacia el musculo o la zona establecida.
+
+<img width="175" alt="entrena en casa 1" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/c1e763ef-d7b0-4928-80c2-d65bb50fd725">
+<img width="174" alt="entrena en casa 2" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/59aa3bfa-c897-468f-ba8a-e3867f65f629">
+
+Una vez seleccionada la rutina generara una serie de videos con entrenamientos sin necesidad de maquinas que puede realizar el usuario para alcanzar su objetivo.
+
+<img width="174" alt="entrena en casa 3" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/da0f305d-cb53-4624-82e8-82a24c4f982a">
+<img width="175" alt="entrena en casa 4" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/eb652ec5-0fcc-4d77-b637-3c38855fe910">
+
+5. Entrenamiento especializado se centra en videos de una rutina completa sobre algun arte fisico que pueda existir como lo puede ser yoga, calistenia, artes marciales entre otros.
+
+<img width="181" alt="entrenamiento especial" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/425f07e0-b7b2-41b3-b16c-c886ba1b3693">
+
+6. Gestión y control de usuario, aqui el usurio podra verificar su avance registrando los datos actuales despues de cada semana de entrenamiento para validar su estado fisico y orientarlo hacia el cumplimiento de meta y objetivos
+
+
+<img width="179" alt="usuario 1" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/d07a5bd5-01a0-4a89-b5a8-747f64deb240">
+<img width="176" alt="usuario 2" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/8c1d9a43-bbb4-4330-ab26-472e196e9e22">
+
+#### Para conocer un poco mas a detalle el uso de la aplicación con su respectiva navegación puedes darle click al siguiente enlace 
 
