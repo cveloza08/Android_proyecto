@@ -44,5 +44,5 @@ Una vez seleccionada la rutina generara una serie de videos con entrenamientos s
 <img width="179" alt="usuario 1" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/d07a5bd5-01a0-4a89-b5a8-747f64deb240">
 <img width="176" alt="usuario 2" src="https://github.com/cveloza08/Android_proyecto/assets/42224057/8c1d9a43-bbb4-4330-ab26-472e196e9e22">
 
-#### Para conocer un poco mas a detalle el uso de la aplicación con su respectiva navegación puedes darle click al siguiente enlace 
+#### Para conocer un poco mas a detalle el uso de la aplicación con su respectiva navegación puedes darle click al siguiente enlace [FitFlow]([https://www.myfitnesspal.com/es](https://www.figma.com/proto/oxsrKGyQq03BixVzelgOJI/FitFlow?type=design&node-id=2-4&t=Y39TpcR7pkLOlJWF-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A4)https://www.figma.com/proto/oxsrKGyQq03BixVzelgOJI/FitFlow?type=design&node-id=2-4&t=Y39TpcR7pkLOlJWF-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A4)
 
