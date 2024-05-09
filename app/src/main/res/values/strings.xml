@@ -3,4 +3,14 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="HOLA">TextView</string>
+    <string name="CristianVeloza">TextView</string>
+    <string name="VideosRutinas">Button</string>
+    <string name="RetoDiario">Button</string>
+    <string name="EntrenaEnCasa">Button</string>
+    <string name="EntrenamientoEspecial">TextView</string>
+    <string name="Yoga">Button</string>
+    <string name="ArtesMarciales">Button</string>
+    <string name="ReportarProblemas">TextView</string>
+    <string name="todo">TODO</string>
 </resources>
